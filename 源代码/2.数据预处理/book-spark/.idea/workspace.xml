@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="book-spark:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa13e05a-fa6d-4141-bf30-1b832afa2ac2" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\IDEA\apache-maven-3.8.4\cangku" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../IDEA/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="E:\IDEA\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2FT5KIvxIphK6ZXfXFlljanZCPd" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/book-spark",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CodeFile\BIGDATA\book-spark\src\main\resources" />
+      <recent name="D:\CodeFile\BIGDATA\book-spark\src\main\scala\com\zys\spark\common" />
+      <recent name="D:\CodeFile\BIGDATA\book-spark\src\main\scala\com\zys\spark" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.run">
+    <configuration name="CreateDf" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.zys.spark.dataframe.CreateDf" />
+      <module name="book-spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zys.spark.dataframe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Extract" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.zys.spark.re.Extract" />
+      <module name="book-spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zys.spark.re.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyUdfTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.zys.spark.udf.MyUdfTest" />
+      <module name="book-spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zys.spark.udf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectCol" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.zys.spark.dataframe.SelectCol" />
+      <module name="book-spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zys.spark.dataframe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.zys.spark.preprocess.run" />
+      <module name="book-spark" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zys.spark.preprocess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.run" />
+        <item itemvalue="应用程序.MyUdfTest" />
+        <item itemvalue="应用程序.Extract" />
+        <item itemvalue="应用程序.SelectCol" />
+        <item itemvalue="应用程序.CreateDf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="aa13e05a-fa6d-4141-bf30-1b832afa2ac2" name="变更" comment="" />
+      <created>1664503167534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664503167534</updated>
+      <workItem from="1664503169385" duration="6894000" />
+      <workItem from="1664539457462" duration="18178000" />
+      <workItem from="1664597913997" duration="20374000" />
+      <workItem from="1664690548567" duration="21276000" />
+      <workItem from="1664769010943" duration="1090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

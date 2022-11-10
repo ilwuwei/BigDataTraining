@@ -1,0 +1,37 @@
+// [{
+//     nameTextStyle: {
+//       color: "#fff",
+//       fontSize: 12,
+//       padding: 10
+//     },
+//     min: 0,
+//     splitLine: {
+//       show: true,
+//       lineStyle: {
+//         color: 'rgba(101, 124, 168, 0.4)'
+//       },
+//     },
+//     axisLine: {
+//       show: true,
+//       lineStyle: {
+//         color: "rgba(101, 124, 168, 0.4)"
+//       }
+
+//     },
+//     axisLabel: {
+//       show: true,
+//       textStyle: {
+//         color: '#fff',
+//         padding: 16
+//       },
+//       formatter: function (value) {
+//         if (value === 0) {
+//           return value
+//         }
+//         return value
+//       }
+//     },
+//     axisTick: {
+//       show: false,
+//     },
+//   }],

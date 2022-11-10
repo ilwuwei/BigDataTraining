@@ -1,0 +1,395 @@
+2022-09-22 19:17:19 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag>
+2022-09-22 19:17:20 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/?view=cloud>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E7%A4%BE%E4%BC%9A>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E8%89%BA%E6%9C%AF>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E6%96%87%E5%8C%96>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E4%BC%A0%E8%AE%B0>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E7%A4%BE%E4%BC%9A%E5%AD%A6>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E5%93%B2%E5%AD%A6>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E5%BF%83%E7%90%86%E5%AD%A6>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E5%8E%86%E5%8F%B2>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E7%8E%8B%E6%9C%94>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E4%BD%99%E7%A7%8B%E9%9B%A8>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E6%B2%A7%E6%9C%88>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E9%AB%98%E6%9C%A8%E7%9B%B4%E5%AD%90>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E5%8F%A4%E9%BE%99>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E6%A0%A1%E5%9B%AD>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E5%BC%A0%E5%B0%8F%E5%A8%B4>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E7%A8%8B%E5%BA%8F>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://sec.douban.com/b?r=https%3A%2F%2Fbook.douban.com%2Ftag%2F%25E4%25BC%25A0%25E8%25AE%25B0>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/UCD>
+2022-09-22 19:17:21 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/36019350/>
+2022-09-22 19:17:22 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35950257/>
+2022-09-22 19:17:22 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/27073705/>
+2022-09-22 19:17:22 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35671921/>
+2022-09-22 19:17:22 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/6802393/>
+2022-09-22 19:17:24 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/25780308/>
+2022-09-22 19:17:24 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/1045247/>
+2022-09-22 19:17:24 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/1089515/>
+2022-09-22 19:17:24 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/1089513/>
+2022-09-22 19:17:25 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/27055156/>
+2022-09-22 19:17:25 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35934902/>
+2022-09-22 19:17:26 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/26423309/>
+2022-09-22 19:17:26 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35565067/>
+2022-09-22 19:17:26 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: (1292, "Incorrect datetime value: '花城出版社' for column 'pub_time' at row 1")
+2022-09-22 19:17:26 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/2043396/>
+2022-09-22 19:17:26 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: (1292, "Incorrect datetime value: '上海译文出版社' for column 'pub_time' at row 1")
+2022-09-22 19:17:26 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://sec.douban.com/b?r=https%3A%2F%2Fbook.douban.com%2Fsubject%2F6802393%2F>
+2022-09-22 19:17:27 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/26699778/>
+2022-09-22 19:17:27 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/25864478/>
+2022-09-22 19:17:27 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35916109/>
+2022-09-22 19:17:28 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35915127/>
+2022-09-22 19:17:28 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: (1292, "Incorrect datetime value: '生活·读书·新知三联书店' for column 'pub_time' at row 1")
+2022-09-22 19:17:28 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: (1292, "Incorrect datetime value: '北京联合出版公司' for column 'pub_time' at row 1")
+2022-09-22 19:17:28 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/27129662/>
+2022-09-22 19:17:29 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: (1292, "Incorrect datetime value: '电子工业出版社' for column 'pub_time' at row 1")
+2022-09-22 19:17:29 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35925625/>
+2022-09-22 19:17:29 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: (1292, "Incorrect datetime value: '九州出版社' for column 'pub_time' at row 1")
+2022-09-22 19:17:30 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35797151/>
+2022-09-22 19:17:30 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35911208/>
+2022-09-22 19:17:30 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: (1292, "Incorrect datetime value: '趙秋鳳' for column 'pub_time' at row 1")
+2022-09-22 19:17:30 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35952940/>
+2022-09-22 19:17:30 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: (1292, "Incorrect datetime value: '珠海出版社' for column 'pub_time' at row 1")
+2022-09-22 19:17:30 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35941942/>
+2022-09-22 19:17:30 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35769244/>
+2022-09-22 19:17:30 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/34948951/>
+2022-09-22 19:17:30 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: (1292, "Incorrect datetime value: '电子工业出版社' for column 'pub_time' at row 1")
+2022-09-22 19:17:30 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: (1292, "Incorrect datetime value: '蕪村' for column 'pub_time' at row 1")
+2022-09-22 19:17:30 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35926207/>
+2022-09-22 19:17:30 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/27591495/>
+2022-09-22 19:17:30 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: (1292, "Incorrect datetime value: '珠海出版社' for column 'pub_time' at row 1")
+2022-09-22 19:17:31 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35799744/>
+2022-09-22 19:17:31 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35810277/>
+2022-09-22 19:17:31 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35785629/>
+2022-09-22 19:17:31 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: (1292, "Incorrect datetime value: '湖南文艺出版社' for column 'pub_time' at row 1")
+2022-09-22 19:17:31 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: (1292, "Incorrect datetime value: '湖南人民出版社' for column 'pub_time' at row 1")
+2022-09-22 19:17:32 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35514115/>
+2022-09-22 19:17:32 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35909191/>
+2022-09-22 19:17:32 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: (1292, "Incorrect datetime value: '上海古籍出版社' for column 'pub_time' at row 1")
+2022-09-22 19:17:32 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: (1292, "Incorrect datetime value: '南海出版公司' for column 'pub_time' at row 1")
+2022-09-22 19:17:32 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35921556/>
+2022-09-22 19:17:32 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: (1292, "Incorrect datetime value: '中信出版社' for column 'pub_time' at row 1")
+2022-09-22 19:17:32 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://sec.douban.com/b?r=https%3A%2F%2Fbook.douban.com%2Fsubject%2F35941942%2F>
+2022-09-22 19:28:01 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag>
+2022-09-22 19:28:02 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/>
+2022-09-22 19:28:51 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag>
+2022-09-22 19:29:04 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/>
+2022-09-22 19:29:05 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/?view=cloud>
+2022-09-22 19:29:05 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E5%8E%86%E5%8F%B2>
+2022-09-22 19:29:05 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E7%8E%8B%E6%9C%94>
+2022-09-22 19:29:05 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E4%BD%99%E7%A7%8B%E9%9B%A8>
+2022-09-22 19:29:05 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E6%B2%A7%E6%9C%88>
+2022-09-22 19:29:05 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E9%AB%98%E6%9C%A8%E7%9B%B4%E5%AD%90>
+2022-09-22 19:29:05 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E5%8F%A4%E9%BE%99>
+2022-09-22 19:29:05 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E6%A0%A1%E5%9B%AD>
+2022-09-22 19:29:05 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E5%BC%A0%E5%B0%8F%E5%A8%B4>
+2022-09-22 19:29:05 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E5%B9%BE%E7%B1%B3>
+2022-09-22 19:29:05 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/J.K.%E7%BD%97%E7%90%B3>
+2022-09-22 19:29:05 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E5%87%A0%E7%B1%B3>
+2022-09-22 19:29:05 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E9%9D%92%E6%98%A5%E6%96%87%E5%AD%A6>
+2022-09-22 19:29:05 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E9%83%AD%E6%95%AC%E6%98%8E>
+2022-09-22 19:29:05 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E9%AD%94%E5%B9%BB>
+2022-09-22 19:29:05 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E8%BD%BB%E5%B0%8F%E8%AF%B4>
+2022-09-22 19:29:05 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E7%A8%8B%E5%BA%8F>
+2022-09-22 19:29:06 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/UCD>
+2022-09-22 19:29:06 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C>
+2022-09-22 19:29:06 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/tag/UE>
+2022-09-22 19:29:06 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35671921/>
+2022-09-22 19:29:06 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/10434849/>
+2022-09-22 19:29:06 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/25985021/>
+2022-09-22 19:29:07 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/25864478/>
+2022-09-22 19:29:07 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/2295163/>
+2022-09-22 19:29:08 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/30407912/>
+2022-09-22 19:29:08 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35923005/>
+2022-09-22 19:29:08 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/27055156/>
+2022-09-22 19:29:08 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/2157554/>
+2022-09-22 19:29:09 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/26818782/>
+2022-09-22 19:29:09 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/1461652/>
+2022-09-22 19:29:09 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/21979017/>
+2022-09-22 19:29:11 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/26423309/>
+2022-09-22 19:29:11 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/35565067/>
+2022-09-22 19:29:11 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: (1366, "Incorrect decimal value: '48.00元' for column 'price' at row 1")
+2022-09-22 19:29:11 | MainProcess | MainThread | middlewares.py | middlewares.process_request:16 | INFO: <GET https://book.douban.com/subject/2043396/>
+2022-09-22 19:32:44 | MainProcess | MainThread | book.py | book.parse_item:39 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%93%B2%E5%AD%A6
+2022-09-22 19:34:38 | MainProcess | MainThread | book.py | book.parse_item:39 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E9%83%AD%E6%95%AC%E6%98%8E
+2022-09-22 19:34:38 | MainProcess | MainThread | book.py | book.parse_item:40 | ERROR: None
+2022-09-22 19:34:38 | MainProcess | MainThread | book.py | book.parse_item:39 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%A8%8B%E5%BA%8F
+2022-09-22 19:34:38 | MainProcess | MainThread | book.py | book.parse_item:40 | ERROR: None
+2022-09-22 20:18:04 | MainProcess | MainThread | book.py | book.parse_item:66 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%A9%BF%E8%B6%8A
+2022-09-22 20:18:04 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: None
+2022-09-22 20:19:41 | MainProcess | MainThread | book.py | book.parse_item:66 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB
+2022-09-22 20:19:41 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: None
+2022-09-22 20:19:45 | MainProcess | MainThread | book.py | book.parse_item:66 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2
+2022-09-22 20:19:45 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: None
+2022-09-22 20:19:46 | MainProcess | MainThread | book.py | book.parse_item:66 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%BB%BA%E7%AD%91
+2022-09-22 20:19:46 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: None
+2022-09-22 20:28:59 | MainProcess | MainThread | book.py | book.parse_item:66 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%B0%8F%E8%AF%B4%E8%AE%BA
+2022-09-22 20:28:59 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: None
+2022-09-22 20:28:59 | MainProcess | MainThread | book.py | book.parse_item:66 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E4%BA%8C%E5%8D%81%E4%B8%96%E7%BA%AA%E4%B8%AD%E5%9B%BD%E5%B0%8F%E8%AF%B4%E7%90%86%E8%AE%BA%E8%B5%84%E6%96%99
+2022-09-22 20:28:59 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: None
+2022-09-22 20:29:03 | MainProcess | MainThread | book.py | book.parse_item:66 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%A4%BE%E4%BC%9A?type=R
+2022-09-22 20:29:03 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: None
+2022-09-22 20:29:04 | MainProcess | MainThread | book.py | book.parse_item:66 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%A4%BE%E4%BC%9A?start=3320&type=T
+2022-09-22 20:29:04 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: None
+2022-09-22 20:29:04 | MainProcess | MainThread | book.py | book.parse_item:66 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%A4%BE%E4%BC%9A?start=40&type=T
+2022-09-22 20:29:04 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: None
+2022-09-22 20:29:12 | MainProcess | MainThread | book.py | book.parse_item:66 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%9B%BE%E6%A1%88
+2022-09-22 20:29:12 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: None
+2022-09-22 21:03:38 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com
+2022-09-22 21:03:38 | MainProcess | MainThread | book.py | book.parse_item:69 | ERROR: None
+2022-09-22 21:03:38 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E9%9F%A9%E5%AF%92
+2022-09-22 21:03:38 | MainProcess | MainThread | book.py | book.parse_item:69 | ERROR: None
+2022-09-22 21:03:39 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%AE%89%E5%A6%AE%E5%AE%9D%E8%B4%9D
+2022-09-22 21:03:39 | MainProcess | MainThread | book.py | book.parse_item:69 | ERROR: None
+2022-09-22 21:03:41 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/library_invitation
+2022-09-22 21:03:41 | MainProcess | MainThread | book.py | book.parse_item:69 | ERROR: None
+2022-09-22 21:03:41 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/subject/1789842/
+2022-09-22 21:03:41 | MainProcess | MainThread | book.py | book.parse_item:69 | ERROR: None
+2022-09-22 21:03:42 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/subject/1898836/
+2022-09-22 21:03:42 | MainProcess | MainThread | book.py | book.parse_item:69 | ERROR: None
+2022-09-22 21:03:45 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/subject/1068308/
+2022-09-22 21:03:45 | MainProcess | MainThread | book.py | book.parse_item:69 | ERROR: None
+2022-09-22 21:03:45 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/subject/1052380/
+2022-09-22 21:03:45 | MainProcess | MainThread | book.py | book.parse_item:69 | ERROR: None
+2022-09-22 21:04:33 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com
+2022-09-22 21:04:33 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:04:35 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/subject/35389475/
+2022-09-22 21:04:35 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:04:36 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/subject/26582936/
+2022-09-22 21:04:36 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:04:37 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/subject/3288009/
+2022-09-22 21:04:37 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:04:37 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/subject/24870698/
+2022-09-22 21:04:37 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:04:38 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/subject/4167914/
+2022-09-22 21:04:38 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:09:12 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com
+2022-09-22 21:09:12 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:10:01 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/annual/2021?source=navigation
+2022-09-22 21:10:01 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:10:01 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/annual/2021?source=book_navigation
+2022-09-22 21:10:01 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:12:47 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com
+2022-09-22 21:12:47 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:13:49 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/annual/2021?source=book_navigation
+2022-09-22 21:13:49 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:14:26 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/annual/2021?source=navigation
+2022-09-22 21:14:26 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:14:26 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/?view=cloud
+2022-09-22 21:14:26 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:14:28 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%A4%96%E5%9B%BD%E6%96%87%E5%AD%A6?start=20&type=T
+2022-09-22 21:14:28 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:14:28 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/Haruki
+2022-09-22 21:14:28 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:14:30 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/link2/?pre=0&vendor=dangdang&srcpage=bestseller&price=4840&pos=7&url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35949850%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29419967&srcsubj=&type=bkbuy&subject=35949850
+2022-09-22 21:14:30 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:14:32 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/subject/25887924/buylinks
+2022-09-22 21:14:32 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:14:33 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%96%87%E5%AD%A6?start=7500&type=T
+2022-09-22 21:14:33 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:14:40 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/subject/19987559/
+2022-09-22 21:14:40 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:14:40 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%AB%A5%E5%B9%B4
+2022-09-22 21:14:41 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:14:41 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E9%9A%8F%E7%AC%94?start=140&type=T
+2022-09-22 21:14:41 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:14:41 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E9%9A%8F%E7%AC%94?start=100&type=T
+2022-09-22 21:14:41 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:14:42 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/subject/11602267/
+2022-09-22 21:14:42 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:14:42 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/
+2022-09-22 21:14:42 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:14:42 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E9%9A%8F%E7%AC%94?start=160&type=T
+2022-09-22 21:14:42 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:14:42 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E9%9A%8F%E7%AC%94?start=2640&type=T
+2022-09-22 21:14:42 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:15:36 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com
+2022-09-22 21:15:36 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:15:36 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/annual/2021?source=navigation
+2022-09-22 21:15:36 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:15:37 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/annual/2021?source=book_navigation
+2022-09-22 21:15:37 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:22:27 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%84%BF%E7%AB%A5%E6%96%87%E5%AD%A6
+2022-09-22 21:22:27 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:22:27 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%95%A3%E6%96%87
+2022-09-22 21:22:27 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:22:28 | MainProcess | MainThread | book.py | book.parse_item:67 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E8%AF%97%E6%AD%8C
+2022-09-22 21:22:28 | MainProcess | MainThread | book.py | book.parse_item:68 | ERROR: None
+2022-09-22 21:43:32 | MainProcess | MainThread | book.py | book.parse_item:73 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%97%A5%E6%9C%AC%E6%96%87%E5%AD%A6
+2022-09-22 21:43:32 | MainProcess | MainThread | book.py | book.parse_item:74 | ERROR: None
+2022-09-22 21:43:32 | MainProcess | MainThread | book.py | book.parse_item:73 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%8E%8B%E5%B0%8F%E6%B3%A2
+2022-09-22 21:43:32 | MainProcess | MainThread | book.py | book.parse_item:74 | ERROR: None
+2022-09-22 21:45:41 | MainProcess | MainThread | book.py | book.parse_item:73 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%84%BF%E7%AB%A5%E6%96%87%E5%AD%A6
+2022-09-22 21:45:41 | MainProcess | MainThread | book.py | book.parse_item:74 | ERROR: None
+2022-09-22 21:45:41 | MainProcess | MainThread | book.py | book.parse_item:73 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%BD%93%E4%BB%A3%E6%96%87%E5%AD%A6
+2022-09-22 21:45:41 | MainProcess | MainThread | book.py | book.parse_item:74 | ERROR: None
+2022-09-22 21:49:31 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:49:31 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:49:32 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:49:32 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:49:32 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:49:32 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:49:32 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:49:32 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:49:32 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:49:33 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:54:46 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:54:47 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:54:47 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:54:48 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:54:49 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:54:49 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:54:49 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:54:50 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:54:50 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 21:54:50 | MainProcess | MainThread | mysql.py | mysql.__edit:81 | ERROR: 操作失败: not enough arguments for format string
+2022-09-22 22:08:57 | MainProcess | MainThread | book.py | book.parse_item:72 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%BB%98%E6%9C%AC
+2022-09-22 22:08:57 | MainProcess | MainThread | book.py | book.parse_item:73 | ERROR: None
+2022-09-22 22:08:58 | MainProcess | MainThread | book.py | book.parse_item:72 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AF%B4
+2022-09-22 22:08:58 | MainProcess | MainThread | book.py | book.parse_item:73 | ERROR: None
+2022-09-22 22:14:21 | MainProcess | MainThread | book.py | book.parse_item:73 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E9%98%BF%E5%8A%A0%E8%8E%8E%C2%B7%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82
+2022-09-22 22:14:21 | MainProcess | MainThread | book.py | book.parse_item:74 | ERROR: None
+2022-09-22 22:14:21 | MainProcess | MainThread | book.py | book.parse_item:73 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E9%83%AD%E6%95%AC%E6%98%8E
+2022-09-22 22:14:21 | MainProcess | MainThread | book.py | book.parse_item:74 | ERROR: None
+2022-09-22 22:14:24 | MainProcess | MainThread | book.py | book.parse_item:73 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%8E%86%E5%8F%B2
+2022-09-22 22:14:24 | MainProcess | MainThread | book.py | book.parse_item:74 | ERROR: None
+2022-09-22 22:14:26 | MainProcess | MainThread | book.py | book.parse_item:73 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E8%AE%BE%E8%AE%A1
+2022-09-22 22:14:26 | MainProcess | MainThread | book.py | book.parse_item:74 | ERROR: None
+2022-09-22 22:14:33 | MainProcess | MainThread | book.py | book.parse_item:73 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%88%90%E9%95%BF
+2022-09-22 22:14:33 | MainProcess | MainThread | book.py | book.parse_item:74 | ERROR: None
+2022-09-22 22:15:50 | MainProcess | MainThread | book.py | book.parse_item:74 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%90%8D%E8%91%97
+2022-09-22 22:15:50 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: None
+2022-09-22 22:17:42 | MainProcess | MainThread | book.py | book.parse_item:74 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE
+2022-09-22 22:17:42 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: None
+2022-09-22 22:17:56 | MainProcess | MainThread | book.py | book.parse_item:74 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%A0%A1%E5%9B%AD
+2022-09-22 22:17:56 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: None
+2022-09-22 22:19:18 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%A5%87%E5%B9%BB
+2022-09-22 22:19:18 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:19:19 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E4%B8%89%E6%AF%9B
+2022-09-22 22:19:19 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:19:48 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%A7%91%E5%AD%A6
+2022-09-22 22:19:48 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:19:49 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1
+2022-09-22 22:19:49 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:20:01 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%97%A5%E6%9C%AC%E6%96%87%E5%AD%A6
+2022-09-22 22:20:01 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:20:02 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%95%A3%E6%96%87
+2022-09-22 22:20:02 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:20:04 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%84%BF%E7%AB%A5%E6%96%87%E5%AD%A6
+2022-09-22 22:20:04 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:20:05 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E4%BD%99%E5%8D%8E
+2022-09-22 22:20:05 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:20:06 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%8E%8B%E5%B0%8F%E6%B3%A2
+2022-09-22 22:20:06 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:20:08 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%9D%82%E6%96%87
+2022-09-22 22:20:08 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:22:08 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%87%A0%E7%B1%B3
+2022-09-22 22:22:08 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:22:11 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%A4%BE%E4%BC%9A
+2022-09-22 22:22:11 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:22:11 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%94%B5%E5%BD%B1
+2022-09-22 22:22:11 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:22:12 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2
+2022-09-22 22:22:12 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:22:19 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%88%B1%E6%83%85
+2022-09-22 22:22:19 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:22:19 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%A5%B3%E6%80%A7
+2022-09-22 22:22:19 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:22:26 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%85%BB%E7%94%9F
+2022-09-22 22:22:26 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:24:37 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E8%80%BD%E7%BE%8E
+2022-09-22 22:24:37 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:24:38 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E8%BD%BB%E5%B0%8F%E8%AF%B4
+2022-09-22 22:24:38 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:24:38 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E4%BA%A6%E8%88%92
+2022-09-22 22:24:38 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:24:40 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%B9%BE%E7%B1%B3
+2022-09-22 22:24:40 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:24:43 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E8%8C%A8%E5%A8%81%E6%A0%BC
+2022-09-22 22:24:43 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:24:48 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%BB%BA%E7%AD%91
+2022-09-22 22:24:48 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: None
+2022-09-22 22:30:16 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E4%BD%99%E7%A7%8B%E9%9B%A8
+2022-09-22 22:30:16 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:30:28 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%85%BB%E7%94%9F
+2022-09-22 22:30:28 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:31:56 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%96%87%E5%AD%A6
+2022-09-22 22:31:56 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:32:03 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E8%8C%A8%E5%A8%81%E6%A0%BC
+2022-09-22 22:32:03 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:32:03 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%82%AC%E7%96%91
+2022-09-22 22:32:03 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:32:04 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AF%B4
+2022-09-22 22:32:04 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:33:21 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%91%84%E5%BD%B1
+2022-09-22 22:33:21 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:33:24 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%85%BB%E7%94%9F
+2022-09-22 22:33:24 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:33:25 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%BB%8F%E6%B5%8E
+2022-09-22 22:33:25 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:33:25 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%95%86%E4%B8%9A
+2022-09-22 22:33:25 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:33:26 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E8%90%A5%E9%94%80
+2022-09-22 22:33:26 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:33:27 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E8%82%A1%E7%A5%A8
+2022-09-22 22:33:27 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:34:07 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%B0%8F%E8%AF%B4
+2022-09-22 22:34:07 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:36:44 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E8%80%83%E5%8F%A4
+2022-09-22 22:36:44 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:37:42 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E9%80%9A%E4%BF%A1
+2022-09-22 22:37:42 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:39:41 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB
+2022-09-22 22:39:41 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:40:36 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E4%B8%A4%E6%80%A7
+2022-09-22 22:40:36 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:40:38 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%BB%8F%E6%B5%8E%E5%AD%A6
+2022-09-22 22:40:38 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:40:39 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%8A%95%E8%B5%84
+2022-09-22 22:40:39 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:40:39 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E8%90%A5%E9%94%80
+2022-09-22 22:40:39 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:40:40 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%B9%BF%E5%91%8A
+2022-09-22 22:40:40 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:40:42 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%BC%96%E7%A8%8B
+2022-09-22 22:40:42 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:49:11 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%95%99%E8%82%B2
+2022-09-22 22:49:11 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:49:22 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E8%87%AA%E5%8A%A9%E6%B8%B8
+2022-09-22 22:49:22 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:49:28 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%B9%BF%E5%91%8A
+2022-09-22 22:49:28 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:50:34 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%94%BF%E6%B2%BB
+2022-09-22 22:50:34 | MainProcess | MainThread | book.py | book.parse_item:77 | ERROR: None
+2022-09-22 22:52:46 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%97%A5%E6%9C%AC%E6%96%87%E5%AD%A6
+2022-09-22 22:52:47 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%BD%93%E4%BB%A3%E6%96%87%E5%AD%A6
+2022-09-22 22:52:47 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%BC%A0%E7%88%B1%E7%8E%B2
+2022-09-22 22:52:50 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%BB%98%E6%9C%AC
+2022-09-22 22:52:51 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E9%B2%81%E8%BF%85
+2022-09-22 22:52:53 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%BD%91%E7%BB%9C%E5%B0%8F%E8%AF%B4
+2022-09-22 22:52:54 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%A9%BF%E8%B6%8A
+2022-09-22 22:52:54 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E9%9D%92%E6%98%A5%E6%96%87%E5%AD%A6
+2022-09-22 22:52:57 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%8E%8B%E6%9C%94
+2022-09-22 22:53:09 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E9%9F%B3%E4%B9%90
+2022-09-22 22:53:11 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%94%9F%E6%B4%BB
+2022-09-22 22:53:11 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%BF%83%E7%90%86
+2022-09-22 22:53:13 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%85%BB%E7%94%9F
+2022-09-22 22:53:21 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%97%A5%E6%9C%AC%E6%96%87%E5%AD%A6
+2022-09-22 22:53:26 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E8%80%BD%E7%BE%8E
+2022-09-22 22:53:30 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E8%89%BA%E6%9C%AF
+2022-09-22 22:54:27 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%A9%BF%E8%B6%8A
+2022-09-22 22:56:13 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%95%86%E4%B8%9A
+2022-09-22 22:56:14 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E8%82%A1%E7%A5%A8
+2022-09-22 22:56:15 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1
+2022-09-22 22:56:15 | MainProcess | MainThread | book.py | book.parse_item:76 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%AE%97%E6%B3%95
+2022-09-22 22:58:52 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E4%BA%BA%E6%96%87
+2022-09-22 22:59:36 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%89%8B%E5%B7%A5
+2022-09-22 22:59:38 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%95%86%E4%B8%9A
+2022-09-22 22:59:40 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%8A%95%E8%B5%84
+2022-09-22 22:59:41 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%AD%96%E5%88%92
+2022-09-22 23:46:55 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E5%8F%A4%E5%85%B8%E6%96%87%E5%AD%A6
+2022-09-22 23:47:15 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E8%80%BD%E7%BE%8E
+2022-09-22 23:48:52 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%95%99%E8%82%B2
+2022-09-22 23:48:53 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E7%BE%8E%E9%A3%9F
+2022-09-22 23:48:55 | MainProcess | MainThread | book.py | book.parse_item:75 | ERROR: 'NoneType' object has no attribute 'split', 错误链接: https://book.douban.com/tag/%E6%89%8B%E5%B7%A5

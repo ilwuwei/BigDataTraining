@@ -1,0 +1,9 @@
+2022-09-20 00:01:08 | MainProcess | MainThread | middlewares.py | middlewares.spider_opened:99 | INFO: Spider opened: book
+2022-09-20 00:01:08 | MainProcess | MainThread | middlewares.py | middlewares.process_request:76 | INFO: {'download_timeout': 180.0, 'proxy': 'https://103.179.109.156:3128'}
+2022-09-20 00:04:24 | MainProcess | MainThread | middlewares.py | middlewares.spider_opened:99 | INFO: Spider opened: book
+2022-09-20 00:04:24 | MainProcess | MainThread | middlewares.py | middlewares.process_request:76 | INFO: {'download_timeout': 180.0, 'proxy': 'https://131.0.205.15:8080'}
+2022-09-20 00:04:46 | MainProcess | MainThread | middlewares.py | middlewares.process_request:76 | INFO: {'download_timeout': 180.0, 'proxy': 'https://218.0.221.221:3128', 'download_slot': 'book.douban.com', 'retry_times': 1}
+2022-09-20 00:04:46 | MainProcess | MainThread | middlewares.py | middlewares.process_request:76 | INFO: {'download_timeout': 180.0, 'proxy': 'https://114.116.2.116:8001', 'download_slot': 'book.douban.com', 'retry_times': 1, 'download_latency': 0.4634737968444824, 'redirect_times': 1, 'redirect_ttl': 19, 'redirect_urls': ['https://book.douban.com/tag'], 'redirect_reasons': [301]}
+2022-09-20 00:04:48 | MainProcess | MainThread | middlewares.py | middlewares.process_request:76 | INFO: {'download_timeout': 180.0, 'proxy': 'https://218.0.221.221:3128', 'download_slot': 'book.douban.com', 'retry_times': 1, 'download_latency': 1.182218313217163, 'redirect_times': 2, 'redirect_ttl': 18, 'redirect_urls': ['https://book.douban.com/tag', 'https://book.douban.com/tag/'], 'redirect_reasons': [301, 302]}
+2022-09-20 00:08:22 | MainProcess | MainThread | middlewares.py | middlewares.spider_opened:99 | INFO: Spider opened: book
+2022-09-20 00:08:22 | MainProcess | MainThread | middlewares.py | middlewares.process_request:76 | INFO: {'download_timeout': 180.0, 'proxy': 'https://40.122.233.211:8000'}
